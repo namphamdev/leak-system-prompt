@@ -1,1 +1,1 @@
-# leak-system-prompt
+# Use for education only
